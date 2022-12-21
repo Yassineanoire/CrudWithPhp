@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+input{
+    border: none;
+    margin: 10px;
+    height: 20px;
+    width: 250px;
+    padding: 18px;
+    border-radius: 50px;
+    box-shadow: rgba(75, 59, 59, 0.19) 2px 5px 5px;
+    background-color: rgba(224, 223, 220, 0.377);
+}
+h1{
+    text-align: center;
+margin-top: 100px;
+}
